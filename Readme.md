@@ -15,7 +15,7 @@ This is a simple Tic Tac Toe game implemented using HTML, CSS, and JavaScript. I
 
 
  
- ## [Cilck here to Play](tictactoebyshubh.netlify.app)
+ ## [Cilck here to Play](https://tictactoebyshubh.netlify.app/)
 
 
 ## Technologies Used
