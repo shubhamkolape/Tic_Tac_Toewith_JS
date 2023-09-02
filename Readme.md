@@ -11,6 +11,13 @@ This is a simple Tic Tac Toe game implemented using HTML, CSS, and JavaScript. I
 - Displays game status (winner, draw, or ongoing) after each move.
 - Reset button to start a new game.
 
+
+
+
+ 
+ ## [Cilck here to Play](tictactoebyshubh.netlify.app)
+
+
 ## Technologies Used
 
 - HTML
